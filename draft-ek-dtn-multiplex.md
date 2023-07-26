@@ -9,8 +9,8 @@ number: 00
 date:
 consensus: true
 v: 3
-area: TSV
-workgroup: DTN Working Group
+area: "Transport"
+workgroup: "Delay/Disruption Tolerant Networking"
 keyword:
  - Bundle Protocol
  - BP
