@@ -1,9 +1,9 @@
 ---
-title: "Bundle Protocol Multiplexing"
-abbrev: "BP Multiplex"
+title: "Bundle Protocol (De)Multiplexing"
+abbrev: "BP (De)Multiplex"
 category: info
 
-docname: draft-ek-dtn-multiplex-latest
+docname: draft-ek-dtn-demux-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number: 00
 date:
@@ -21,8 +21,8 @@ venue:
   type: "Working Group"
   mail: "dtn@ietf.org"
   arch: "https://mailarchive.ietf.org/arch/browse/dtn/"
-  github: "ekline/draft-dtn-multiplex"
-  latest: "https://ekline.github.io/draft-dtn-multiplex/draft-ek-dtn-multiplex.html"
+  github: "ekline/draft-dtn-demux"
+  latest: "https://ekline.github.io/draft-dtn-demux/draft-ek-dtn-demux.html"
 
 author:
  -
